@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmsaki
 - 👀 I’m interested in python and data analysis
 - 🌱 I’m currently learning fintech and blockchain development
-- 💞️ I’m looking to collaborate on NFTs and startups.
+- 💞️ I’m looking to collaborate on startups.
 - 📫 How to reach me meek10x@gmail.com
 
 <!---
