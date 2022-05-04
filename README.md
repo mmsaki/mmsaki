@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mmsaki
-- 👀 I’m interested in fintech and analysis
-- 🌱 I’m currently learning blockchains 
-- 💞️ I’m looking to work.
+- Hi, I’m @mmsaki
+- I’m interested in fintech and analysis
+- I’m currently learning blockchains 
+- I’m looking to work.
 - 📫 How to reach me meek10x@gmail.com
 
 <!---
