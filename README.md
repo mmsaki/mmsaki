@@ -5,4 +5,4 @@ Hi, my name is Meek Msaki. I am interested in financial technologies.
 > Do not spam my email.
 
 > **Note**
-> Welcome!
+> You are welcome and please introduce yourself.
