@@ -1,8 +1,9 @@
 
 Hi, my name is Meek Msaki. I am interested in financial technologies.
 - 📫 How to reach me: meek10x@gmail.com
-> **Warning**
+- 
+<!-- > **Warning**
 > Do not spam my email.
 
 > **Note**
-> Anyone is welcome and please introduce yourself when you reach out to me 🐶.
+> Anyone is welcome and please introduce yourself when you reach out to me 🐶. -->
