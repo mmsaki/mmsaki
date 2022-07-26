@@ -1,6 +1,6 @@
 
 Hi, my name is Meek Msaki. I am interested in financial technologies.
-- How to reach me: meek10x@gmail.com
+- How to reach me: meek.dev3@gmail.com
 <!-- > **Warning**
 > Do not spam my email.
 
