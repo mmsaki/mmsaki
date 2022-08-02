@@ -1,10 +1,13 @@
 
 Hi there, turtle!
 
-Welcome to my dungeon 🐢! 
-2022 is my year as a developer. I am passionate and flexible to learn new technologies. If you think you have a job for me please email or tweet  me [@msakiart](https://twitter.com/msakiart).
+My name is msaki and, I welcome you 🐢! 
 
-- How to reach me: meek.dev3@gmail.com
+Catch up with me on Twitter if you have any questions.
+
+[@msakiart](https://twitter.com/msakiart).
+
+You can also reach out to me at: meek.dev3@gmail.com
 <!-- > **Warning**
 > Do not spam my email.
 
