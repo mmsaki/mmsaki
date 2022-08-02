@@ -1,7 +1,7 @@
 
-Hi there! 
+Hi turtle! 
 
-Welcome to my dungeon! 
+Welcome to my dungeon 🐢! 
 2022 is my year as a developer. I am passionate and flexible to learn new technologies. If you think you have a job for me please email or tweet  me [@msakiart](https://twitter.com/msakiart).
 
 - How to reach me: meek.dev3@gmail.com
