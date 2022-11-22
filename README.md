@@ -13,3 +13,5 @@ You can also reach out to me at: meek.dev3@gmail.com
 
 > **Note**
 > Anyone is welcome and please introduce yourself when you reach out to me 🐶. -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
