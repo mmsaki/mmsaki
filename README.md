@@ -1,13 +1,13 @@
 
-> Hi there, turtle!
-
-My name is meek 🐢! 
-
-<div>
-<img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteemitimages.com%2F0x0%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fhpiynhbhq%2Fimage%2Fupload%2Fv1517631979%2Fygp4mfqu3l5nl4bucajl.gif&f=1&nofb=1](https://c.tenor.com/8CnlmiFa-rAAAAAj/eth-ethereum.gif)" width="240px" align="center"> <img/>
-<div/>
+<p align="center">
+  <br><br>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F8CnlmiFa-rAAAAAj%2Feth-ethereum.gif&f=1&nofb=1&ipt=f40c0ea63ab54ba320b15231aea1361d47cae8ac9ed0ae2d5081b423b357a32b&ipo=images" width="240px" align="center">
 
 <br>
+  </p>
+
+
+Hi there, turtle 🐢!
 
 [@msakiart](https://twitter.com/msakiart). Mostly talks about and retweets NFTs.
 
