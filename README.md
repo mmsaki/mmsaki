@@ -5,4 +5,6 @@
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
 
+Hello :)
+- I am a Fintech analyst.
 - Currently studying ZK-Proofs
