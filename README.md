@@ -7,4 +7,4 @@
 
 Hello :)
 - I am a Fintech/Blockchain analyst currently learning React and Web development.
-- Currently studying ZK-Proofs
+- Recently completed ZK-Proofs bootcamp
