@@ -6,5 +6,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
 
 Hello :)
-- I am a Fintech analyst.
+- I am a Fintech/Blockchain analyst currently learning React and Web development.
 - Currently studying ZK-Proofs
