@@ -5,6 +5,12 @@
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
 
-Hello :)
-- I am a Fintech/Blockchain analyst currently learning React and Web development.
-- Recently completed ZK-Proofs bootcamp
+I am/have:
+- Enrolled to Advanced Solidity Bootcamp by Jeffrey Scholz
+- Completed Gas Optimization 
+- A Fintech/Blockchain developer
+- Recently completed ZK-Proofs program by Encode club offered by Extropyio
+- Graduated Fintech Program at the University of Minnesota
+- Completed Solidity program from Encode Club
+- Selected Finalist at Encode Club Solana Hackathon
+- 2nd Award receipient from Forex Category Aave Grants DAO at ETHOnline 2022
