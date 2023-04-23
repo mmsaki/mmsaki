@@ -12,4 +12,4 @@ I am/have:
 - Recently completed ZK-Proofs program by Encode club offered by Laurence Kirk for Extropyio
 - Completed Solidity program from Encode Club
 - Finalist at Encode Club Solana Hackathon 2023
-- 2nd Award receipient from Forex Category Aave Grants DAO at ETHOnline 2022
+- 2nd Award receipient Forex Category Aave Grants DAO at ETHOnline 2022
