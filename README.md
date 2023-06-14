@@ -1,10 +1,16 @@
 <div align="left">
 <div/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaki&count_private=true&layout=compact&langs_count=8&hide=html,asp,c%23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaki&count_private=true&layout=compact&langs_count=8&hide=jupyter%20notebook)
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki&show_icons=true&bg_color=00000000)
 
+  
+<!--START_SECTION:waka-->
+  
+  
+<!--END_SECTION:waka-->
+  
 I am/have:
 - Enrolled to Advanced Solidity Bootcamp by Dominik Teiml @rareskills
 - Completed Gas Optimization course and puzzles @rareskills
