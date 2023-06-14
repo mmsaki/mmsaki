@@ -7,9 +7,9 @@
 
 I am/have:
 - Enrolled to Advanced Solidity Bootcamp by Dominik Teiml @rareskills
-- Completed Gas Optimization course and puzzles
-- Graduated 2U/edX Fintech Bootcamp at the University of Minnesota
+- Completed Gas Optimization course and puzzles @rareskills
+- Graduated 2U/edX Fintech Bootcamp @UniversityOfMinnesota
 - Completed ZK-Proofs program at Encode club taught by Laurence Kirk @Extropyio
-- Completed Solidity program @Encode Club
+- Completed Solidity program @EncodeClub
 - Top 10 Finalist at Encode Club Solana Hackathon 2023
-- 2nd Award Forex Category Aave Grants DAO at ETHOnline 2022
+- 2nd Award Forex Category Aave Grants DAO at ETHOnline 2022 @EthGlobal
