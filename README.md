@@ -6,10 +6,10 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki)
 
 I am/have:
-- Enrolled to Advanced Solidity Bootcamp by Jeffrey Scholz
-- Completed Gas Optimization 
+- Enrolled to Advanced Solidity Bootcamp by Dominik Teiml @rareskills
+- Completed Gas Optimization course and puzzles
 - Graduated 2U/edX Fintech Bootcamp at the University of Minnesota
-- Recently completed ZK-Proofs program by Encode club offered by Laurence Kirk from Extropyio
-- Completed Solidity program from Encode Club
-- Finalist at Encode Club Solana Hackathon 2023
-- 2nd Award receipient Forex Category Aave Grants DAO at ETHOnline 2022
+- Completed ZK-Proofs program at Encode club taught by Laurence Kirk @Extropyio
+- Completed Solidity program @Encode Club
+- Top 10 Finalist at Encode Club Solana Hackathon 2023
+- 2nd Award Forex Category Aave Grants DAO at ETHOnline 2022
