@@ -1,6 +1,6 @@
 <div align="left">
-<div/>
-  
+<div/> 
+
 <!--START_SECTION:waka-->
 
 ```python
@@ -21,12 +21,13 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mmsaki&show_icons=true&bg_color=00000000)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaki&count_private=true&layout=compact&langs_count=8&hide=jupyter%20notebook)
-   
-I am/have:
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmsaki&show_icons=true&bg_color=00000000"/>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmsaki&count_private=true&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
+ 
+<br>
+ 
+I am/have currently:
 - Enrolled to Advanced Solidity Bootcamp by Dominik Teiml @rareskills
 - Completed Gas Optimization course and puzzles @rareskills
 - Graduated 2U/edX Fintech Bootcamp @UniversityOfMinnesota
