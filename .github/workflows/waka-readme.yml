@@ -10,9 +10,12 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.SCOPED_TOKEN }}
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.SCOPED_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
