@@ -1,5 +1,7 @@
 <div align="left">
 <div/> 
+  
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaki)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
