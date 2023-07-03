@@ -1,6 +1,8 @@
 <div align="left">
 <div/> 
 
+<img src="https://wakatime.com/badge/user/39656be6-a34f-44a0-8412-8ef48d72ffb1.svg" />
+  
 <!--START_SECTION:waka-->
 
 ```python
