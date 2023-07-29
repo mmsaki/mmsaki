@@ -28,23 +28,23 @@
 
 ## Languages & Tools
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="WebAssembly" width="26px" src="https://raw.githubusercontent.com/github/explore/bdf7d0aa7c1c829a57db416f274cafe0366ec149/topics/assemblyscript/assemblyscript.png" style="padding-right:10px;" />
-<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Rust" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Figma" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Next" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="React" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="tailwindcss" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Rasberrypi" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="WebAssembly" width="26px" src="https://raw.githubusercontent.com/github/explore/bdf7d0aa7c1c829a57db416f274cafe0366ec149/topics/assemblyscript/assemblyscript.png" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Rust" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="Figma" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="Next" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="React" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="tailwindcss" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px; padding-bottom:10px;"/>
+<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Pytorch" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Rasberrypi" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px; padding-bottom:10px;" />
 
 
 
