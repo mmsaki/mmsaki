@@ -20,7 +20,7 @@
 
 ## Let's Connect
 
-[<img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/mmsaki/)
+[<img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/msakiart/)
 
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/msaki/)
 
