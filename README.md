@@ -37,7 +37,6 @@
 <img align="left" alt="WebAssembly" width="26px" src="https://raw.githubusercontent.com/github/explore/bdf7d0aa7c1c829a57db416f274cafe0366ec149/topics/assemblyscript/assemblyscript.png" style="padding-right:10px;" />
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Huff" width="80px" src="https://repository-images.githubusercontent.com/501418369/f0139bb5-9fba-4096-880c-1d508e9861d1" style="padding-right:10px;" />
 <img align="left" alt="Rust" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Figma" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Next" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px;"/>
