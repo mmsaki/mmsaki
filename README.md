@@ -4,7 +4,7 @@
 
 ## 💻 A Software Engineer
 
-## I am passionate about software development, security, and internet protocol suite (IP)
+## I am passionate about software, security, and internet protocol (IP)
 
 - 🛡️ Intern at [Extropy.io](extropy.io), a consultancy offering services in blockchain, technical workshops, cryptography, and auditing
 - 📚 Blockchain Engineering fellowship at [Rareskills.io](rareskills.io), a 5 month program focused on producing senior-level blockchain engineers through extensive hands-on-coding, security exercises, and code reviews
