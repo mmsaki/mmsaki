@@ -6,7 +6,7 @@
 
 ## I am passionate about software systems, security and internet protocols
 
-- 🛡️ Intern at [Extropy.io](extropy.io) a consultancy for offering services in blockchain technical workshops, cryptography, and auditing
+- 🛡️ Intern at [Extropy.io](extropy.io), a consultancy for offering services in blockchain technical workshops, cryptography, and auditing
 - 📚 Blockchain Engineering fellowship at [Rareskills.io](rareskills.io), a 5 month program focused on producing senior-level blockchain engineers through extensive hands-on-coding, security exercises, and code reviews
 - 💭 Co-Founder of Psyk Africa, a mental health start-up focused on helping students in Nigeria support with mental health services
 - 🔭 Exploring work in blockchain smart contract security, bytecode low-level EVM, testing, and fuzzing smart contracts
