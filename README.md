@@ -8,7 +8,7 @@
 
 - 🛡️ Intern at [Extropy.io](extropy.io), a consultancy offering services in blockchain, technical workshops, cryptography, and auditing
 - 📚 Blockchain Engineering fellowship at [Rareskills.io](rareskills.io), a 5 month program focused on producing senior-level blockchain engineers through extensive hands-on-coding, security exercises, and code reviews
-- 💭 Co-Founder of Psyk Africa, a mental health start-up focused on helping students in Nigeria support with mental health services
+- 💭 Co-Founder of Psyk Africa, I am a former Mental Health professional with 6+ years of experience, Pysk is a mental health start-up focused on helping students/youth in Nigeria with mental health support
 - 🔭 Exploring work in blockchain smart contract security, bytecode low-level EVM, testing, and fuzzing smart contracts
 - 🌱 I learn a new programming language every month 8/12 languages for 2023 - julia, c++, solidity, huff, rust, circom, web assembly, golang #12for23
 - 💬 Ask me about [Star Streamer grant proposal](https://github.com/filecoin-project/devgrants/issues/1609), IPFS & libp2p peer to peer video streaming application award winner at HackFS '23
