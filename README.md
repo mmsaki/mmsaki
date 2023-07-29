@@ -4,14 +4,14 @@
 
 ## 💻 A Software Engineer
 
-## I am passionate about software systems, security and internet protocols
+## I am passionate about software development, security, and internet protocol suite (IP)
 
 - 🛡️ Intern at [Extropy.io](extropy.io), a consultancy offering services in blockchain, technical workshops, cryptography, and auditing
 - 📚 Blockchain Engineering fellowship at [Rareskills.io](rareskills.io), a 5 month program focused on producing senior-level blockchain engineers through extensive hands-on-coding, security exercises, and code reviews
 - 💭 Co-Founder of Psyk Africa, a mental health start-up focused on helping students in Nigeria support with mental health services
 - 🔭 Exploring work in blockchain smart contract security, bytecode low-level EVM, testing, and fuzzing smart contracts
 - 🌱 I learn a new programming language every month 8/12 languages for 2023 - julia, c++, solidity, huff, rust, circom, web assembly, golang #12for23
-- 💬 Ask me about [Star Streamer](https://github.com/mmsaki/star-streamer), a peer to peer video streaming application, winner at HackFS 2023 hackathon
+- 💬 Ask me about [Star Streamer grant proposal](https://github.com/filecoin-project/devgrants/issues/1609), IPFS & libp2p peer to peer video streaming application award winner at HackFS '23
 - 📍 Graduate Fintech Bootcamp '22 at University Of Minnesota
 - 📐 ZK-Proofs February cohort '23 at Encodeclub
 - 🏆 Top 10 Finalist Solana Hackathon January '23 at Encode Club
