@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaki&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaki" /></p>
 
-## 💻 A Software Engineer
+## 💻 Software Engineer
 
 ## I am passionate about software, security, and internet protocol (IP)
 
