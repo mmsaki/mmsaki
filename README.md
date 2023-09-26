@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaki&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaki" /></p>
 
-## 💻 Software Engineer
+## 💻 Blockchain Developer
 
-## I am passionate about software, security, and internet protocol (IP)
+## I am passionate about blockchain, security, and web development
 
 - 🛡️ Intern at [Extropy.io](extropy.io), a consultancy offering services in blockchain, technical workshops, cryptography, and auditing
 - 📚 Blockchain Engineering fellowship at [Rareskills.io](rareskills.io), a 5 month program focused on producing senior-level blockchain engineers through extensive hands-on-coding, security exercises, and code reviews
