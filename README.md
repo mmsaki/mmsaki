@@ -11,7 +11,7 @@
 - 💭 Co-Founder of Psyk Africa, I am a former Mental Health professional with 6+ years of experience, Pysk is a mental health start-up focused on helping students/youth in Nigeria with mental health support
 - 🔭 Exploring work in blockchain smart contract security, bytecode low-level EVM, testing, and fuzzing smart contracts
 - 🌱 I learn a new programming language every month 8/12 languages for 2023 - julia, c++, solidity, huff, rust, circom, web assembly, golang #12for23
-- 💬 Ask me about [Star Streamer grant proposal](https://github.com/filecoin-project/devgrants/issues/1609), IPFS & libp2p peer to peer video streaming application award winner at HackFS '23
+- 💬 IPFS & libp2p peer to peer video streaming application award winner at HackFS '23
 - 📍 Graduate Fintech Bootcamp '22 at University Of Minnesota
 - 📐 ZK-Proofs February cohort '23 at Encodeclub
 - 🏆 Top 10 Finalist Solana Hackathon January '23 at Encode Club
