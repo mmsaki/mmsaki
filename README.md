@@ -63,14 +63,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 June 2023 - To: 10 November 2023
+From: 14 June 2023 - To: 11 November 2023
 
 Total Time: 390 hrs 7 mins
 
 TypeScript                 85 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
 Markdown                   75 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   19.39 %
 Huff                       47 hrs 50 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-JavaScript                 40 hrs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+JavaScript                 40 hrs 1 min    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
 Solidity                   39 hrs 41 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
 Python                     27 hrs 41 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 XML                        14 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
