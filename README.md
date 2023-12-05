@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 June 2023 - To: 02 December 2023
+From: 14 June 2023 - To: 04 December 2023
 
-Total Time: 395 hrs 15 mins
+Total Time: 395 hrs 16 mins
 
-TypeScript                 88 hrs 25 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+TypeScript                 88 hrs 26 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
 Markdown                   76 hrs 5 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
 Huff                       47 hrs 50 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
 JavaScript                 40 hrs 9 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
