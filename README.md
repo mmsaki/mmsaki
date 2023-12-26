@@ -63,20 +63,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 June 2023 - To: 23 December 2023
+From: 14 June 2023 - To: 25 December 2023
 
-Total Time: 422 hrs 13 mins
+Total Time: 427 hrs 18 mins
 
-TypeScript                 89 hrs 7 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-Markdown                   84 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Huff                       47 hrs 50 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Solidity                   46 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-JavaScript                 40 hrs 24 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Python                     34 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-XML                        14 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-MDX                        10 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JSON                       9 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Bash                       8 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+TypeScript                 89 hrs 7 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Markdown                   85 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Solidity                   50 hrs 24 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Huff                       47 hrs 50 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+JavaScript                 40 hrs 24 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Python                     34 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+XML                        14 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+MDX                        10 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JSON                       9 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Bash                       8 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
