@@ -2,7 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaki&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaki" /></p>
 
-## 💻 Blockchain Developer
+
+<img src="https://wakatime.com/badge/user/39656be6-a34f-44a0-8412-8ef48d72ffb1.svg" />
+  
+<!-- 
 
 ## I am passionate about blockchain, security, and web development
 
@@ -16,7 +19,7 @@
 - 📐 ZK-Proofs February cohort '23 at Encodeclub
 - 🏆 Top 10 Finalist Solana Hackathon January '23 at Encode Club
 - 💸 Aave Grants DAO Flashloans award at ETHOnline '22 at EthGlobal
-- 📫 How to reach me: meek10x@gmail.com
+- 📫 How to reach me: meek10x@gmail.com -->
 
 ## Let's Connect
 
@@ -52,37 +55,9 @@
 <br/>
 <br/>
 
-
-## Latest Stats
-
 <div align="left">
 <div/> 
   
-<img src="https://wakatime.com/badge/user/39656be6-a34f-44a0-8412-8ef48d72ffb1.svg" />
-  
-<!--START_SECTION:waka-->
 
-```python
-From: 14 June 2023 - To: 18 February 2024
 
-Total Time: 457 hrs 38 mins
-
-TypeScript                 89 hrs 32 mins  █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Markdown                   88 hrs 8 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Solidity                   61 hrs 6 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Huff                       47 hrs 54 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-JavaScript                 41 hrs 14 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Python                     35 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-XML                        14 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-MDX                        10 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JSON                       10 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-RPMSpec                    10 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-```
-
-<!--END_SECTION:waka-->
-<details>
-  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmsaki&show_icons=true&bg_color=00000000"/>
-  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmsaki&count_private=true&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
-  <br/>
-</details>
 
