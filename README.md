@@ -5,11 +5,11 @@ I can help you with smart contract work, auditing, and educational content for E
 ## 🎉 Awards
 
 - 2026: <img src="assets/the-dao-fund.svg" width="16" alt="" /> The DAO Fund — Ethereum Security Quadratic funding round
-- Sep 2025: <img src="assets/uniswap-foundation.png" width="16" alt="" /> <a href="https://www.uniswapfoundation.org/blog/unichain-grants-4">Uniswap Foundation</a> grant
+- Sep 2025: <img src="assets/uniswap-foundation.png" width="16" alt="" /> <a href="https://www.uniswapfoundation.org/blog/unichain-grants-4">Uniswap Foundation</a> grant for [Async Swap](https://github.com/asyncswap/async-swap)
 - Sep 2023: 🏅 <a href="https://minaminao.github.io/optimizor-war/"> minaminao Optimizor War CTF </a> at <img src="assets/huff.png" width="16" alt="" /> Huff Hackathon
-- June 2023: Star Streamer, 🥇 <img src="assets/protocol-labs.png" width="16" alt="" /> IPFS , 🥉 <img src="assets/libp2p.png" width="16" alt="" /> libp2p at ETHGlobal HackFS Hackathon
-- Jan 2023: Swipe, 🏆 Top 10 Finalist at <img src="assets/solana.svg" width="16" alt="" /> Solana Hackathon Encode Club
-- Sep 2022: Rush, 🥈 awarded by <img src="assets/aave-dao.svg" width="16" alt="" /> Aave DAO Grants at ETHGlobal ETHOnline
+- June 2023: [Star Streamer](https://github.com/mmsaki/star-streamer), 🥇 <img src="assets/protocol-labs.png" width="16" alt="" /> IPFS, 🥉 <img src="assets/libp2p.png" width="16" alt="" /> libp2p at ETHGlobal HackFS Hackathon
+- Jan 2023: [Swipe](https://msaki.io/blog/i-build-a-tinder-for-nfts), 🏆 Top 10 Finalist at <img src="assets/solana.svg" width="16" alt="" /> Solana Hackathon Encode Club
+- Sep 2022: [Rush](https://msaki.io/blog/aave-flashloans), 🥈 awarded by <img src="assets/aave-dao.svg" width="16" alt="" /> Aave DAO Grants at ETHGlobal ETHOnline
 
 ## 💼 Work
 
@@ -37,4 +37,4 @@ I can help you with smart contract work, auditing, and educational content for E
 - [Solidity Language Server](https://github.com/asyncswap/solidity-language-server)
 - <img src="assets/askmike.webp" width="16" alt="" /> [askmike.how](https://askmike.how)
 
-[Website](https://msaki.io) · [Blog](https://msaki.io/blog) · [Follow me](https://x.com/msakiart) · [Email updates](https://msaki.substack.com)
+[More projects](https://msaki.io/projects) · [Website](https://msaki.io) · [Blog](https://msaki.io/blog) · [Follow me](https://x.com/msakiart) · [Email updates](https://msaki.substack.com)
