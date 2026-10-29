@@ -4,7 +4,7 @@ I am a smart contract consultant focused on auditing and educational content for
 
 ## 🎉 Awards
 
-- 2026: <img src="assets/the-dao-fund.svg" width="16" alt="" /> The DAO Fund — Ethereum Security Quadratic funding round
+- 2026: <img src="assets/the-dao-fund.svg" width="16" alt="" /> The DAO Fund — Ethereum Security [Quadratic funding round](https://www.giveth.io/project/solidity-language-server)
 - Sep 2025: <img src="assets/uniswap-foundation.png" width="16" alt="" /> <a href="https://www.uniswapfoundation.org/blog/unichain-grants-4">Uniswap Foundation</a> grant for [Async Swap](https://github.com/asyncswap/async-swap)
 - Sep 2023: 🏅 <a href="https://minaminao.github.io/optimizor-war/"> minaminao Optimizor War CTF </a> at <img src="assets/huff.png" width="16" alt="" /> Huff Hackathon
 - June 2023: [Star Streamer](https://github.com/mmsaki/star-streamer), 🥇 <img src="assets/protocol-labs.png" width="16" alt="" /> IPFS, 🥉 <img src="assets/libp2p.png" width="16" alt="" /> libp2p at ETHGlobal HackFS Hackathon
@@ -34,7 +34,7 @@ I am a smart contract consultant focused on auditing and educational content for
 
 - <img src="assets/formal-mind.svg" width="16" alt="" /> [Formal Mind](https://formal.team)
 - <img src="assets/async-swap.svg" width="16" alt="" /> [Async Swap](https://github.com/asyncswap/async-swap)
-- [Solidity Language Server](https://github.com/asyncswap/solidity-language-server) · [Support on Giveth](https://www.giveth.io/project/solidity-language-server)
+- [Solidity Language Server](https://github.com/asyncswap/solidity-language-server)
 - <img src="assets/askmike.webp" width="16" alt="" /> [askmike.how](https://askmike.how)
 
 [More projects](https://msaki.io/projects) · [Website](https://msaki.io) · [Blog](https://msaki.io/blog) · [Follow me](https://x.com/msakiart) · [Email updates](https://msaki.substack.com)
