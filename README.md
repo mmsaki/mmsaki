@@ -34,7 +34,7 @@ I can help you with smart contract work, auditing, and educational content for E
 
 - <img src="assets/formal-mind.svg" width="16" alt="" /> [Formal Mind](https://formal.team)
 - <img src="assets/async-swap.svg" width="16" alt="" /> [Async Swap](https://github.com/asyncswap/async-swap)
-- [Solidity Language Server](https://github.com/asyncswap/solidity-language-server)
+- [Solidity Language Server](https://github.com/asyncswap/solidity-language-server) · [Support on Giveth](https://www.giveth.io/project/solidity-language-server)
 - <img src="assets/askmike.webp" width="16" alt="" /> [askmike.how](https://askmike.how)
 
 [More projects](https://msaki.io/projects) · [Website](https://msaki.io) · [Blog](https://msaki.io/blog) · [Follow me](https://x.com/msakiart) · [Email updates](https://msaki.substack.com)
