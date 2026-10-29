@@ -1,6 +1,6 @@
 # Hi 👋🏾, I'm Meek
 
-I can help you with smart contract work, auditing, and educational content for EVM blockchains.
+I am a smart contract consultant focused on auditing and educational content for EVM blockchains.
 
 ## 🎉 Awards
 
